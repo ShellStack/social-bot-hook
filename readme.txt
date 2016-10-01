@@ -1,6 +1,5 @@
-=== Social bot plugin ===
+=== Social bot hook ===
 Contributors: rwtc66@gmail.com
-Donate link: http://example.com/
 Tags: posts,sharing,social
 Requires at least: 4.4
 Tested up to: 4.4
@@ -8,7 +7,7 @@ Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin acts as a hook for social bot SaaS platform for content automation sharing.
+This plugin acts as a hook for social bot SaaS platform for content automation sharing[Under development].
 == Description ==
 Socialbot is upcoming SaaS platform for content sharing. This plugin helps us to retrieve random posts from the Wordpress and expose it as JSON output using Wordpress in-built REST API feature.
 == Installation ==
